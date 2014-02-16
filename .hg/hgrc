@@ -1,0 +1,6 @@
+[ui]
+username = George Tsiatzios <tsia.thess@gmail.com>
+ignore = .git
+
+[paths]
+default-push = https://tsia@bitbucket.org/tsia/django-polls
